@@ -1,2 +1,2 @@
 # PSZT_cookies
-Pejekt z zastosowaniem algorytmu genetycznego
+Projekt z zastosowaniem algorytmu genetycznego
