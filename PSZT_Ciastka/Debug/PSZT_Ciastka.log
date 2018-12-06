@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  PSZT_Ciastka.cpp
+c:\users\towia1\source\repos\pszt_ciastka\pszt_ciastka\pszt_ciastka.cpp(71): warning C4101: 'reproducedMember': unreferenced local variable
+c:\users\towia1\source\repos\pszt_ciastka\pszt_ciastka\pszt_ciastka.cpp(92): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\towia1\source\repos\pszt_ciastka\pszt_ciastka\pszt_ciastka.cpp(108): warning C4018: '<': signed/unsigned mismatch
+  PSZT_Ciastka.vcxproj -> C:\Users\towia1\source\repos\PSZT_Ciastka\Debug\PSZT_Ciastka.exe
